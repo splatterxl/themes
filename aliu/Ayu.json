@@ -1,0 +1,18 @@
+{
+  "name": "Ayu (Mirage)",
+  "author": "Splatterxl",
+  "version": "1.0",
+  "license": "MIT",
+
+  "background_transparency": 255,
+  "simple_bg_color": 4280230960,
+  "simple_bg_secondary_color": 4280230955,
+  "color_background_material_dark": 4280230960,
+  "color_design_dark_default_color_background": 4280230960,
+
+  "color_link": 4294090356,
+  "simple_accent_color": 4294090356,
+  "color_uikit_btn_bg_color_selector_secondary_light": 4293519842,
+  "color_uikit_btn_bg_color_selector_background_accent_dark": 4293519842,
+  "drawablecolor_ic_spine_long_cap": 4294944601
+}
