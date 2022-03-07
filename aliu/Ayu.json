@@ -3,7 +3,7 @@
   "author": "Splatterxl",
   "version": "1.0",
   "license": "MIT",
-  "updater": "https://github.com/nearlySplat/themes/blob/trunk/aliu/Ayu.json?raw=true",
+  "updater": "https://github.com/splatterxl/themes/blob/trunk/aliu/Ayu.json?raw=true",
 
   "background_transparency": 255,
   "simple_bg_color": 4280230960,
